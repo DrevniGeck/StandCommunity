@@ -1,0 +1,2 @@
+serviceClass: ru.nntu.vst.standcommunity.client.StockPriceService
+path: BAF7C8692DA4840663D4D08440D50862.gwt.rpc

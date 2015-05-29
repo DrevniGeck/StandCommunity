@@ -1,0 +1,2 @@
+serviceClass: ru.nntu.vst.standcommunity.client.GreetingService
+path: 020CDC2AC619327A2611EFBEE2597AB7.gwt.rpc
